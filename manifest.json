@@ -7,9 +7,10 @@
       "type": "image/png"
     }],
   "start_url": "index.html",
-  "display": "fullscreen",
+  //  "display": "fullscreen",
+  "display": "standalone",
   "description": "Sua loja mobile.",
   "background_color": "#3E4EB8",
-  "theme_color": "#2F3BA2",
+  "theme_color": "#eb5a32",
   "lang": "en-US"
 }
